@@ -1,0 +1,16 @@
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\bin\Debug\net5.0\ConsoleAppTransferenciaBancaria.exe
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\bin\Debug\net5.0\ConsoleAppTransferenciaBancaria.deps.json
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\bin\Debug\net5.0\ConsoleAppTransferenciaBancaria.runtimeconfig.json
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\bin\Debug\net5.0\ConsoleAppTransferenciaBancaria.runtimeconfig.dev.json
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\bin\Debug\net5.0\ConsoleAppTransferenciaBancaria.dll
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\bin\Debug\net5.0\ref\ConsoleAppTransferenciaBancaria.dll
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\bin\Debug\net5.0\ConsoleAppTransferenciaBancaria.pdb
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\obj\Debug\net5.0\ConsoleAppTransferenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\obj\Debug\net5.0\ConsoleAppTransferenciaBancaria.AssemblyInfoInputs.cache
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\obj\Debug\net5.0\ConsoleAppTransferenciaBancaria.AssemblyInfo.cs
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\obj\Debug\net5.0\ConsoleAppTransferenciaBancaria.csproj.CoreCompileInputs.cache
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\obj\Debug\net5.0\ConsoleAppTransferenciaBancaria.dll
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\obj\Debug\net5.0\ref\ConsoleAppTransferenciaBancaria.dll
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\obj\Debug\net5.0\ConsoleAppTransferenciaBancaria.pdb
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\obj\Debug\net5.0\ConsoleAppTransferenciaBancaria.genruntimeconfig.cache
+C:\Eduardo\Innovation One\ConsoleAppTransferenciaBancaria\obj\Debug\net5.0\ConsoleAppTransferenciaBancaria.csprojAssemblyReference.cache
